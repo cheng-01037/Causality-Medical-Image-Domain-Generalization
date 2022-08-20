@@ -1,6 +1,16 @@
 # Causality-inspired Single-source Domain Generalization for Medical Image Segmentation
 [Arxiv preprint](https://arxiv.org/abs/2111.12525)
 
+**Highlights**
+
+Your effortless tool for segmentation challenges that involve domain generalization.
+
+- Plug-and-play: NEUTRAL to network architectures: No need to make any changes to your favorite CNNs or transformers. Just append this simple cocktail of GIN and IPA to your data augmentation pipeline.
+
+- Easy to train: NO adversarial-/meta-learning involved. Just add a commonly-used consistency regularization term to your loss function.  
+
+- 3D support: 3D version of GIN has already been added to the repository. 3D IPA will be released soon as well.
+
 Repository under construction. Might still be buggy.
 
 
