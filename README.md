@@ -7,7 +7,7 @@ Your effortless tool for segmentation challenges that involve domain generalizat
 
 - Plug-and-play: NEUTRAL to network architectures: No need to make any changes to your favorite CNNs or transformers. Just append this simple cocktail of GIN and IPA to your data augmentation pipeline.
 
-- Easy to train: NO adversarial-/meta-learning involved. Just add a commonly-used consistency regularization term to your loss function.  
+- Easy-to-train: NO adversarial-/meta-learning involved. Just add a commonly-used consistency regularization term to your loss function.  
 
 - 3D support: 3D version of GIN has already been added to the repository. 3D IPA will be released soon as well.
 
