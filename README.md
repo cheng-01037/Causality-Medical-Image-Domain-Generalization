@@ -1,6 +1,10 @@
 # Causality-inspired Single-source Domain Generalization for Medical Image Segmentation
 [Arxiv preprint](https://arxiv.org/abs/2111.12525)
 
+**News**
+
+We won the Fetal Tissue Annotation and Segmentation Challenge ([FeTA](https://feta.grand-challenge.org/Home/)) in MICCAI 2022, where this causality-inspired domain generalization serves as a key componnet to our solution. It significantly improves our model robustness against images from unforeseen insitutes.
+
 **Highlights**
 
 Your effortless tool for segmentation challenges that involve domain generalization.
