@@ -17,9 +17,9 @@ Your effortless tool for segmentation challenges that involve domain generalizat
 
 Repository under construction. Might still be buggy.
 
+![](./stable_diffusion.jpeg)
 
-![](./intro.png)
-
+(Image generated using stable diffusion)
 
 **Abstract**
 
