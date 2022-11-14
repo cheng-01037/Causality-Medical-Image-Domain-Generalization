@@ -1,5 +1,8 @@
 # Causality-inspired Single-source Domain Generalization for Medical Image Segmentation
-[Arxiv preprint](https://arxiv.org/abs/2111.12525)
+
+Accepted for IEEE Transactions on Medical Imaging (IEEE-TMI)
+
+[Arxiv link to a previous version](https://arxiv.org/abs/2111.12525)
 
 **News**
 
